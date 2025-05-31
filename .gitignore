@@ -1,0 +1,20 @@
+# Ignora todo lo que no sea tu código
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+__pycache__/
+*.pyc
+
+# Ignora archivos de configuración local
+.env
+.vscode/
+*.code-workspace
+
+# Ignora todo lo relacionado a OneDrive
+OneDrive/
+
+# Ignora archivos del sistema
+*.~*
